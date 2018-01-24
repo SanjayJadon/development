@@ -2,6 +2,6 @@
 Readme file only
 
 .development{
-padding: 10px 12px;
+padding: 5px;
 color: #fff;
 }
