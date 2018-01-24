@@ -2,6 +2,8 @@
 Readme file only
 
 .development{
-padding: 10px 12px;
-color: #fff;
+margin: 5px 0;
+padding: 10px 24px;
+color: #000;
+font-size: 14px;
 }
